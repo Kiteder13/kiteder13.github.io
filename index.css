@@ -1,0 +1,93 @@
+body {background-image: url("image/fon2.jpg");
+background-size: cover; }
+
+
+
+/*img 
+{width:200px;
+height:200px;
+border-radius: 100px;
+border: 5px solid #3ce0d2;
+margin-left: 550px;
+}
+.right
+{
+float:right;
+width:400px;
+height:600px;
+background-color: #ffd166;
+padding: 0px 5px 5px 5px;
+margin-left: 900px;
+text-align: left;
+font-family: 'Indie Flower', cursive;
+border: 10px inset #7d1fb8;?*/
+
+/*p.left {
+float:left;
+width:400px;
+height:600px;
+background-color: #ffd166;
+padding: 0px 5px 5px 5px;
+margin-left: 0px;
+text-align: left;
+font-family: 'Noto Serif', serif;
+border: 10px inset #7d1fb8;
+}*/
+
+
+.header{
+font-size: 100px;
+}	
+.logo
+{
+width:200px;
+height:200px;
+border-radius: 100px;
+border: 5px solid #3ce0d2;
+
+}
+
+p.left   
+{
+float:left;
+width:400px;
+height:600px;
+background-color: #ffd166;
+padding: 0px 5px 5px 5px;
+margin-left: 0px;
+text-align: left;
+font-family: "Noto Serif", serif;
+border: 10px inset #d6e0bd;}
+
+
+p.right  
+ {
+float:right;
+width:400px;
+background-color: #ffd166;
+padding: 0px 5px 5px 5px;
+text-align: justify;
+font-family: "Noto Serif", serif;
+border: 10px inset #0bb0eb;
+}
+
+.down
+{
+width: 400px;
+background-color:#ffd166;
+margin-top: 300px;
+margin-left: 550px;	
+padding: 0px 5px 5px 5px;
+text-align: left;
+font-family: 'Noto Serif', serif;
+border: 10px ridge #0bb0eb;
+
+}
+
+
+.vk
+{
+	margin-left: 1100px;
+	font-size:25px;
+	margin-bottom: 150px;
+}
